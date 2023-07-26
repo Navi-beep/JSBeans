@@ -5,7 +5,7 @@ function beans(thing) {
 }
 
 
-// your_script.js
+
 
 // Function to create and append a card to the card container
 function createCard(title, description, imageUrl) {
@@ -37,7 +37,7 @@ function createCard(title, description, imageUrl) {
 createCard(
     'Card Title',
     'This is a sample card description. You can replace this with your own content.',
-    'path/to/your/image.jpg'
+    'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ToddHoward2010sm_%28cropped%29.jpg/1200px-ToddHoward2010sm_%28cropped%29.jpg'
 );
 
 
